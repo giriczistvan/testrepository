@@ -1,1 +1,13 @@
 valami 
+ Volume in drive C has no label.
+ Volume Serial Number is 3044-7CC5
+
+ Directory of C:\Users\fiuk\Desktop\apadolga\git\testrepository
+
+2020. 06. 02.  23:11    <DIR>          .
+2020. 06. 02.  23:11    <DIR>          ..
+2020. 06. 02.  23:11                 9 new.txt
+2020. 06. 02.  22:55                32 README.md
+2020. 06. 02.  23:11                 0 valamicske.txt
+               3 File(s)             41 bytes
+               2 Dir(s)  34ÿ028ÿ908ÿ544 bytes free
